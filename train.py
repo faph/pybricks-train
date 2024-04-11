@@ -1,7 +1,6 @@
 from pybricks.hubs import CityHub
-from pybricks.pupdevices import Motor, Remote
 from pybricks.parameters import Button, Color, Port
-from pybricks.tools import wait
+from pybricks.pupdevices import Motor, Remote
 
 import pylc
 
